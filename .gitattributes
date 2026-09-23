@@ -1,0 +1,2 @@
+# Keep generated calendars byte-for-byte (CRLF line endings required by RFC 5545).
+*.ics -text

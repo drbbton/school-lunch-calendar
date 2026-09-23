@@ -1,0 +1,400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Deephaven Lunch Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deephaven Lunch
+X-WR-CALDESC:Deephaven Elementary School lunch menu from Minnetonka Nutrisl
+ ice
+NAME:Deephaven Lunch
+DESCRIPTION:Deephaven Elementary School lunch menu from Minnetonka Nutrisli
+ ce
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-01@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Lunch: Breaded Chicken Patty / Spicy Breaded Chicken Patty / Kickin
+ ' Patty
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Breaded Chicken Pa
+ tty\n• Spicy Breaded Chicken Patty\n• Kickin' Patty on a Hamburger Bun
+ \n\nSides:\n• Sunchips - Original\n• Baked Beans\n• Steamed Green Be
+ ans\n• Fruit Choice\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu source:
+ \nhttps://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-09-01
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-01
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:38c9f3b7cbdb1cee
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-02@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Lunch: Mandarin Orange Chicken / Grilled Cheese Sandwich
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Mandarin Orange Ch
+ icken\n• Grilled Cheese Sandwich\n\nSides:\n• Rice\n• Steamed Brocco
+ li\, Carrots & Cauliflower\n• Fruit Choice\n• Black Cherry Frozen Frui
+ t Treat\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu source:\nhttps://minn
+ etonka.nutrislice.com/menu/deephaven/lunch/2026-09-02
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-02
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:9d5e63b233a7d0a3
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-03@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Lunch: Beef Hot Dog / Cheez Dippin' Bitez
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Beef Hot Dog on a 
+ Hot Dog Bun\n• Cheez Dippin' Bitez\n\nSides:\n• Marinara Cup\n• Swee
+ t Potato Fries\n• Fresh Carrot Sticks\n• Fruit Choice\n\nMilk:\n• Sk
+ im Milk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/me
+ nu/deephaven/lunch/2026-09-03
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-03
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:ed8da281ac73ddc3
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-04@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Lunch: Chicken Nuggets / Plant-Based Kickin' Nuggets
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Chicken Nuggets\n
+ • Plant-Based Kickin' Nuggets\n\nSides:\n• Garlic Knot\n• Romaine Le
+ ttuce w/ Ranch\n• Mashed Potatoes\n• Fruit Choice\n\nMilk:\n• Skim M
+ ilk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/d
+ eephaven/lunch/2026-09-04
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-04
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:e4a97222aabba06e
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-08@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Lunch: Mini Maple Pancakes / Yogurt Parfait Bento Box
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Mini Maple Pancake
+ s\n• Yogurt Parfait Bento Box\n\nSides:\n• Turkey Sausage Link\n• Ed
+ amame\n• Hashbrown Patties\n• Fruit Punch\n• Fruit Choice\n\nMilk:\n
+ • Skim Milk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.
+ com/menu/deephaven/lunch/2026-09-08
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-08
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:9c19c0702775714c
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-09@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Lunch: Garlic Mozzarella Filled Twisted Breadstick / Skipper Bento
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Garlic Mozzarella 
+ Filled Twisted Breadstick\n• Skipper Bento\n\nSides:\n• Marinara Cup\n
+ • Whole Grain Crackers\n• Fresh Sugar Snap Peas\n• Romaine Lettuce w
+ / Ranch\n• Fruit Choice\n• Jonny Pop - Strawberry Banana\n\nMilk:\n•
+  Skim Milk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com
+ /menu/deephaven/lunch/2026-09-09
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-09
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:ecc4207a5e1541e3
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-10@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Lunch: Pasta - Rotini
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Pasta - Rotini wit
+ h Meat Sauce or Alfredo Sauce\n\nSides:\n• Garlic Breadstick\n• Steame
+ d Broccoli\n• Fruit Choice\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu 
+ source:\nhttps://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-09-10
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-10
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:4e54a8437a45b586
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-11@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Lunch: Turkey Taco Meat / Refried Bean
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Turkey Taco Meat\n
+ • Refried Bean\n\nSides:\n• Tostitos\n• Shredded Cheddar Cheese\n•
+  Refried Beans\n• Shredded Romaine Lettuce\n• Fresh Pico De Gallo\n•
+  Seasoned Corn\n• Fresh Apple Slices\n\nMilk:\n• Skim Milk\n• 1% Mil
+ k\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/deephaven/lunch/
+ 2026-09-11
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-11
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:05318cffd5848564
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-14@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Lunch: French Toast Sticks / Yogurt Parfait Bento Box
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• French Toast Stick
+ s\n• Yogurt Parfait Bento Box\n\nSides:\n• Turkey Sausage Link\n• Se
+ asoned Potatoes\n• Fresh Carrot Sticks\n• Fruit Choice\n\nMilk:\n• S
+ kim Milk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/m
+ enu/deephaven/lunch/2026-09-14
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-14
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:2803d4502d9a8bb3
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-15@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Lunch: Zoo Crew Chicken Nuggets / Plant-Based Kickin' Nuggets
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Zoo Crew Chicken N
+ uggets\n• Plant-Based Kickin' Nuggets\n\nSides:\n• Sunchips - Original
+ \n• Baked Beans\n• Edamame\n• Fruit Choice\n\nMilk:\n• Skim Milk\n
+ • 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/deepha
+ ven/lunch/2026-09-15
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-15
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:7fd789aab7314c7f
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-16@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Lunch: Pizzaioli Cheese Pizza / Pizzaioli Beef Pepperoni Pizza
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Pizzaioli Cheese P
+ izza\n• Pizzaioli Beef Pepperoni Pizza\n• Pizzaioli Veggie Pizza\n• 
+ Skipper Bento\n\nSides:\n• Garlic Breadstick\n• Steamed Peas\n• Roma
+ ine Lettuce w/ Ranch\n• Fruit Choice\n• Jonny Pop - Strawberry Banana\
+ n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.n
+ utrislice.com/menu/deephaven/lunch/2026-09-16
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-16
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:c4fc414ed2515687
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-17@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Cheese Tortellini 
+ with Alfredo Sauce\n\nSides:\n• Garlic Toast\n• Steamed Broccoli\n• 
+ Fresh Cucumber Slices\n• Fruit Choice\n\nMilk:\n• Skim Milk\n• 1% Mi
+ lk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/deephaven/lunch
+ /2026-09-17
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-17
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:2fd19c705a5d8210
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-18@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Lunch: Beef Hot Dog / Veggie Dog
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Beef Hot Dog\n• 
+ Veggie Dog on a Hot Dog Bun\n\nSides:\n• French Fries\n• Steamed Green
+  Beans\n• Fresh Sliced Bell Peppers\n• Fruit Choice\n\nMilk:\n• Skim
+  Milk\n• 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu
+ /deephaven/lunch/2026-09-18
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-18
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:a7c16ad01fbd0862
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-22@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Lunch: Chicken Tenders / Kickin' Tenders
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Chicken Tenders\n
+ • Kickin' Tenders\n\nSides:\n• Garlic Knot\n• Mashed Potatoes\n• F
+ resh Carrot Sticks\n• Fruit Choice\n\nMilk:\n• Skim Milk\n• 1% Milk\
+ n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/deephaven/lunch/20
+ 26-09-22
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-22
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:3bbb0ce707f71997
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-23@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Lunch: Cheese Pizza Bagels / Pepperoni Pizza Bagels / Skipper Bento
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Cheese Pizza Bagel
+ s\n• Pepperoni Pizza Bagels\n• Skipper Bento\n\nSides:\n• Garlic Bre
+ adstick\n• Steamed Green Beans\n• Romaine Lettuce w/ Ranch\n• Fruit 
+ Choice\n• Black Cherry Frozen Fruit Treat\n\nMilk:\n• Skim Milk\n• 1
+ % Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/deephaven/l
+ unch/2026-09-23
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-23
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:da8d64ffe9d83a94
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-24@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Lunch: Turkey Taco Meat / Refried Bean
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Turkey Taco Meat\n
+ • Refried Bean\n\nSides:\n• Tostitos\n• Shredded Cheddar Cheese\n•
+  Seasoned Corn\n• Refried Beans\n• Shredded Romaine Lettuce\n• Fresh
+  Pico De Gallo\n• Fruit Choice\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nM
+ enu source:\nhttps://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-24
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-24
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:d38091ae5a82f6b9
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-25@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Lunch: Mac & Cheese / Chicken Nuggets
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Mac & Cheese\n• 
+ Chicken Nuggets\n\nSides:\n• Whole Grain Dinner Roll\n• Steamed Brocco
+ li\n• Fresh Sugar Snap Peas\n• Fruit Choice\n\nMilk:\n• Skim Milk\n
+ • 1% Milk\n\nMenu source:\nhttps://minnetonka.nutrislice.com/menu/deepha
+ ven/lunch/2026-09-25
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-25
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:059b0820193c0921
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-28@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Lunch: Mini Maple Pancakes / Yogurt Parfait Bento Box
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Mini Maple Pancake
+ s\n• Yogurt Parfait Bento Box\n\nSides:\n• Turkey Sausage Link\n• Ha
+ shbrown Patties\n• Roasted Sweet Potatoes\n• Fruit Choice\n• Fruit P
+ unch\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu source:\nhttps://minneto
+ nka.nutrislice.com/menu/deephaven/lunch/2026-09-28
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-28
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:b4bdd867a4a80190
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-29@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Lunch: Breaded Chicken Patty / Spicy Breaded Chicken Patty / Kickin
+ ' Patty
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Breaded Chicken Pa
+ tty\n• Spicy Breaded Chicken Patty\n• Kickin' Patty on a Hamburger Bun
+ \n\nSides:\n• Steamed Green Beans\n• Baked Beans\n• Fruit Choice\n
+ • Baked Lays\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu source:\nhttps
+ ://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-09-29
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-29
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:fc4ddd6b3481ddc9
+END:VEVENT
+BEGIN:VEVENT
+UID:deephaven-lunch-2026-09-30@drbbton.github.io
+DTSTAMP:20260923T030754Z
+LAST-MODIFIED:20260923T030754Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Lunch: Cheese Pizza Poppers / Skipper Bento
+DESCRIPTION:Deephaven Elementary Lunch\n\nEntrées:\n• Cheese Pizza Poppe
+ rs\n• Skipper Bento\n\nSides:\n• Garlic Breadstick\n• Steamed Peas\n
+ • Romaine Lettuce w/ Ranch\n• Fruit Choice\n• Frozen Yogurt - Sea Sa
+ lt Caramel\n\nMilk:\n• Skim Milk\n• 1% Milk\n\nMenu source:\nhttps://m
+ innetonka.nutrislice.com/menu/deephaven/lunch/2026-09-30
+URL;VALUE=URI:https://minnetonka.nutrislice.com/menu/deephaven/lunch/2026-0
+ 9-30
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+X-DEEPHAVEN-CONTENT-HASH:509a1037cdacf91e
+END:VEVENT
+END:VCALENDAR
